@@ -1,0 +1,15 @@
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\obj\Debug\net10.0\Desafio-Iniciante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\obj\Debug\net10.0\Desafio-Iniciante.AssemblyInfoInputs.cache
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\obj\Debug\net10.0\Desafio-Iniciante.AssemblyInfo.cs
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\obj\Debug\net10.0\Desafio-Iniciante.csproj.CoreCompileInputs.cache
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\bin\Debug\net10.0\Desafio-Iniciante.exe
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\bin\Debug\net10.0\Desafio-Iniciante.deps.json
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\bin\Debug\net10.0\Desafio-Iniciante.runtimeconfig.json
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\bin\Debug\net10.0\Desafio-Iniciante.dll
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\bin\Debug\net10.0\Desafio-Iniciante.pdb
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\obj\Debug\net10.0\Desafio-Iniciante.dll
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\obj\Debug\net10.0\refint\Desafio-Iniciante.dll
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\obj\Debug\net10.0\Desafio-Iniciante.pdb
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\obj\Debug\net10.0\Desafio-Iniciante.genruntimeconfig.cache
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\obj\Debug\net10.0\ref\Desafio-Iniciante.dll
+C:\Users\AMD RYZEN\Desktop\Fdevs\C# INICIANTE\Desafio-Iniciante\Desafio-Iniciante\obj\Debug\net10.0\Desafio-.84EB3FB7.Up2Date
